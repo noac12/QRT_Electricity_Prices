@@ -1,0 +1,7 @@
+# Allow only the intended public portfolio files.
+*
+!.gitignore
+!README.md
+!assets/
+assets/*
+!assets/public-leaderboard-2026-10-02.png
