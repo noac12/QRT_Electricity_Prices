@@ -1,7 +1,7 @@
 # QRT Electricity Prices
 
 **8th on the public leaderboard · Spearman score: 0.5468**  
-Challenge Data · “Can you explain the price of electricity?” by QRT
+Challenge Data · [Qube Research & Technologies Data Challenge "Can you explain the price of electricity ?](https://challengedata.ens.fr/participants/challenges/97/)
 
 ![QRT public leaderboard showing Noac in 8th place with a score of 0.5468](assets/public-leaderboard-2026-10-02.png)
 
